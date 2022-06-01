@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there! 🙋‍♀️
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/subalasingh)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=subalasingh&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=ff69b4"/>

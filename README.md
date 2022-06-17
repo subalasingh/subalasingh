@@ -19,11 +19,11 @@ I'm a **`Data Analyst in Wipro`** and an **`Open-source Contributor`**!
 ### ✨ About Me in 30 Secs ✨
 - 👩‍💼 Data Analyst in wipro.
 - 👩🏻‍💻 Before switching to Data Analyst role, I was a SAP ABAP consultant who got a Bachelor's Degree in Electronics and Communication.
-- 📝 Taught myself SQL, Python libraries and Power BI.
+- 📝 Taught myself SQL, Python libraries, Infornatica and Power BI.
 
 ### ⚡️ Currently ⚡️
 - working as Data analyst for HPI account.
-- Brushing up on data cleaning and wrangling skills
+- Brushing up on data extraction, cleaning, wrangling and visulaization skills
 
 ### 💡Skills 💡
 - Programming languages: Python Libraries (Pandas, NumPy, Matplotlib, seaborn), SQL, SAP ABAP

@@ -12,9 +12,9 @@
 </a>
 <br />
 
-## I'm [**Subala**](https://www.linkedin.com/in/subala-singh-65383b104/) and welcome to my GitHub profile!
+## I'm [**Subala Singh**](https://www.linkedin.com/in/subala-singh-65383b104/) and welcome to my GitHub profile!
 
-I'm a **`Data Analyst in Wipro`** and an **`Open-source Contributor`**!
+I'm a **`Senior Data Analyst`** and an **`Open-source Contributor`**!
 
 ### ✨ About Me in 30 Secs ✨
 - 👩‍💼 Lead data analyst in Voya India.
@@ -32,7 +32,7 @@ I'm a **`Data Analyst in Wipro`** and an **`Open-source Contributor`**!
 - Soft Skills: Good verbal and written communication, Critical thinking, Analytical skills, Ability to work with a multi-cultural & global team environment. 
 
 ### 📝 Currently Learning 📝
-- [Danny's 8 Week SQL challenge](https://github.com/subalasingh/8-Week-SQL-Challenge)
+- [Exploratory data analysis](https://github.com/subalasingh/Exploratory-Data-Analysis)
 
 ---
 

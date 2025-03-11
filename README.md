@@ -16,10 +16,9 @@
 
 I'm a **`Senior Data Analyst`** and an **`Open-source Contributor`**!
 
-### ✨ About Me in 30 Secs ✨
+### ✨ Fun facts: ✨
 - 👩‍💼 Lead data analyst in Voya India.
 - 👩🏻‍💻 Before switching to Data Analyst role, I was a SAP ABAP consultant who got a Bachelor's Degree in Electronics and Communication.
-- 📝 Taught myself SQL, Python libraries, Tableau and Power BI.
 
 ### ⚡️ Currently ⚡️
 - working as Lead data analyst for Voya India.
@@ -28,12 +27,17 @@ I'm a **`Senior Data Analyst`** and an **`Open-source Contributor`**!
 ### 💡Skills 💡
 - Programming languages: Python Libraries (Pandas, NumPy, Matplotlib, seaborn), SQL
 - Visualization: Tableau, Microsoft Power BI, Advance Excel, Jupyter Notebook
-- Software’s: HPSM, ServiceNow, Snowflake, Salseforce marketing cloud 
+- Software’s: Snowflake, Salseforce marketing cloud 
 - Soft Skills: Good verbal and written communication, Critical thinking, Analytical skills, Ability to work with a multi-cultural & global team environment. 
 
-### 📝 Currently Learning 📝
-- [Exploratory data analysis](https://github.com/subalasingh/Exploratory-Data-Analysis)
+<div align="center">
 
----
+## Languages and Tools  
+<div align="center"> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+</div>
 
 ### View more repositories 👇

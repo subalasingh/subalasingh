@@ -36,20 +36,40 @@ I'm a **`Senior Data Analyst`** and an **`Open-source Contributor`**!
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./icons/python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <img src="./icons/jupyter notebook.png" width="65px"/>
             <br /> Jupyter
         </td>
+      <td align="center" width="140" height="112.43">
+            <img src="./icons/Numpy.png" width="65px"/>
+            <br /> Numpy
+        </td>
+      <td align="center" width="140" height="112.43">
+            <img src="./icons/Pandas.png" width="65px"/>
+            <br /> Pandas
+        </td>
+      <td align="center" width="140" height="112.43">
+            <img src="./icons/Matplotlib.png" width="65px"/>
+            <br /> Matplotlib
+        </td>
+      <td align="center" width="140" height="112.43">
+            <img src="./icons/Seaborn.png" width="65px"/>
+            <br /> Seaborn
+        </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <img src="./icons/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <img src="./icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/MySQL.png" width="65px"/>
+            <br /> MySQL
         </td>
     </tr>
 </table>
